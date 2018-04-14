@@ -14,12 +14,7 @@ import { AngularFireAuthModule } from 'angularfire2/auth';
 import { Facebook } from '@ionic-native/facebook';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyDDemJDvdRKovUL3IrqclZ1nuCZVQesWac",
-  authDomain: "auth-ng4-ionic-af2.firebaseapp.com",
-  databaseURL: "https://auth-ng4-ionic-af2.firebaseio.com",
-  projectId: "auth-ng4-ionic-af2",
-  storageBucket: "auth-ng4-ionic-af2.appspot.com",
-  messagingSenderId: "908166489057"
+
 };
 
 @NgModule({
